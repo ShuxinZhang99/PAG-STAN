@@ -3,4 +3,4 @@ Physics Guided Deep Learning-based Model for Short-term Origin-Destination Deman
 
 Please run the latest Python verson of PAG-STAN
 
-Run python main_train.py to train the model and generate model prediction and evaluation using python main_test.py. Remember to replace the corresponding data files and output files.
+Run python main_train.py to train the model and generate model prediction and evaluation using python main_predict.py. Remember to replace the corresponding data files and output files.
